@@ -9,8 +9,11 @@ For the Evaluation Script you have to run it on Jupyter notebook or Any other ID
 
 Sometimes the Github nbViewer does not work becuase the lenght of preview, so you can click on this link to check the code and execution results
 https://nbviewer.jupyter.org/github/un21988/CE888-7-project-2/blob/main/Sentiment_classification.ipynb
+--------------------
 https://nbviewer.jupyter.org/github/un21988/CE888-7-project-2/blob/main/Sentiment_classification.ipynb
+----------------
 https://nbviewer.jupyter.org/github/un21988/CE888-7-project-2/blob/main/Emotion_classification.ipynb
+
 
 
 
